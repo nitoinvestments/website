@@ -1139,3 +1139,8 @@ ul.box-icons li{
     padding: 6px 115px;background-color: #3d943d;
     border: 1px solid #379437;
 }
+
+a.linkBt{
+    color: #FFF;
+    text-decoration: none;
+}

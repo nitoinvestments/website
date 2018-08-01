@@ -37,10 +37,12 @@ include 'includes/menu.php';
                         <div class="box-icon">
                             <img src="images/service-icon-1.png" alt="">
                         </div>
-                        <h4>Chat Nitô</h4>
-                        <p>Grupo privado no Telegram, com assuntos direcionados à análise técnica e previsões de mercado por especialistas, notícias e bate papo com a comunidade Nitô.</p>
+                        <h4>Nitô Chats </h4>
+                        <p>Comunicador com grupos privado, assuntos direcionados à análise técnica, previsões de mercado, investimentos e tecnologia. Conheça o comunicador da comunidade Nitô e fique por dentro das principais novidades.</p>
                         <!-- Standard button -->
-                        <button type="button" class="btn btn-danger">Entrar</button>
+                            <a class="linkBt" href="chats-assinaturas.php">
+                                <button type="button" class="btn btn-danger">Entrar</button>
+                            </a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">

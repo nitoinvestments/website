@@ -663,6 +663,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
 
 .price-table h3 {
     margin-bottom: 30px;
+    color: #ba051d;
 }
 
 .price-table {
@@ -689,7 +690,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
 
 .price-table ul li {
     padding: 5px 0;
-    border-bottom: 1px solid #ba051d;
+    border-bottom: 1px solid #999;
 }
 
 .price-table .price-info {
@@ -699,11 +700,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
     width: 100px;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    background-color: #55A2BE;
+    background-color: #3d943d;
     color: #ffffff;
     border-radius: 0 0 50% 50%;
     padding-bottom: 5px;
 }
+
 
 /**
 *Accordion
@@ -1129,4 +1131,11 @@ ul.box-icons{
 
 ul.box-icons li{
     position: relative;
+}
+
+.btn-assinaturas{
+    color: #FFF;
+    font-weight: bold;
+    padding: 6px 115px;background-color: #3d943d;
+    border: 1px solid #379437;
 }

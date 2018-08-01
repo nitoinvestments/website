@@ -10,15 +10,11 @@ include 'includes/menu.php';
 <div class="container">
 <div class="row">
         <div class="">
-           <h2>Chat Nitô - Sinais & Análises Técnicas</h2>
+           <h2>Chat Nitô - Portais de educação e investimentos</h2>
            
             <p>
-                
-SABEMOS A QUANTIDADE DE OPORTUNIDADES QUE O MERCADO DE CRIPTOMOEDAS TRAZ TODOS OS DIAS, PENSANDO NISSO, A <b>NITÔ INVESTMENTS</b> TORNOU ACESSÍVEL A TODOS O TRADING DE CRIPTOMOEDAS, COMPARTILHANDO ANÁLISES E SINAIS DE COMPRA/VENDA NO MOMENTO CERTO. <br /> 
-</p>
-<h3 style="text-align:center">CHEGOU A HORA DE LUCRAR TODOS OS DIAS!</h3><br />
-<p>
-RECEBA 2 A 3 SINAIS* E ANÁLISES TÉCNICAS DE SEGUNDA A SEXTA EXCHANGES OPERADAS: BITFINEX (USD/USDT), BINANCE E BITTREX SEJA AVISADO QUANDO HOUVER UMA GRANDE OPORTUNIDADE DE ENTRADA/VENDA INTERAJA ATRAVÉS DE ENQUETES E ESCOLHA O QUE VOCÊ QUER ACOMPANHAR NO CANAL SEM ESTRESSE: SE VOCÊ NÃO GOSTAR, VOCÊ PODE CANCELAR A QUALQUER MOMENTO
+Agora é fácil ter acesso ao comunicador mais utilizado pelas pessoas no cotidiano das comunidades de criptomoedas & Blockchain. Acesso a notícias, análise de mercado, sinais e masternodes são possíveis na <b>Nitô Investments</b>.                
+<br /> 
 </p>
 
         </div>
@@ -26,59 +22,57 @@ RECEBA 2 A 3 SINAIS* E ANÁLISES TÉCNICAS DE SEGUNDA A SEXTA EXCHANGES OPERADAS
     <div class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
             <div class="page-title">
-                <h2>Afortable Price</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+            <br />
+                <h2>Assinaturas</h2>
+                <p>Conheça nossos canais no aplicativo Telegram.</p>
             </div>
         </div>
     </div>
     <div class="row">
         <div class="col-xs-12 col-sm-4">
             <div class="price-table">
-                <h3 class="text-uppercase price-title">Basic</h3>
+                <h3 class="text-uppercase price-title">Nitô News</h3>
                 <hr>
                 <ul class="list-unstyled">
-                    <li><strong class="amount">$ <span class="big">20</span></strong>/Month</li>
-                    <li>100 MB Disk Space</li>
-                    <li>2 Subdomains</li>
-                    <li>5 Email Accounts</li>
-                    <li>Webmail Support</li>
-                    <li>Customer Support 24/7</li>
+                    <li><strong class="amount">Valor: <span class="big" style=" color:green;">Gratuito</span></strong></li>
+                    <li>Notícias de técnologia</li>
+                    <li>Notícias de mercado</li>
+                    <li>Bot Guia iniciante criptomoedas</li>
                 </ul>
                 <hr>
-                <a href="#" class="button">Purchase</a>
+                <button type="button" class="btn btn-assinaturas">Assinar</button>
             </div>
         </div>
         <div class="col-xs-12 col-sm-4">
             <div class="price-table active">
                 <span class="price-info"><span class="ti-crown"></span></span>
-                <h3 class="text-uppercase price-title">STABDARD</h3>
+                <h3 class="text-uppercase price-title">Nitô Investor</h3>
                 <hr>
                 <ul class="list-unstyled">
-                    <li><strong class="amount">$ <span class="big">39</span></strong>/Month</li>
-                    <li>100 MB Disk Space</li>
-                    <li>2 Subdomains</li>
-                    <li>5 Email Accounts</li>
-                    <li>Webmail Support</li>
-                    <li>Customer Support 24/7</li>
+                    <li><strong class="amount">R$ <span class="big" style="color:#3d943d;">39</span></strong>/Mês</li>
+                    <li>2 à 3 Ánalises técnicas semanais*</li>
+                    <li>Sinais trading</li>
+                    <li>Notícias de técnologia</li>
+                    <li>Notícias de mercado</li>
+                    <li>Bot Guia iniciante criptomoedas</li>
                 </ul>
                 <hr>
-                <a href="#" class="button">Purchase</a>
+                <button type="button" class="btn btn-assinaturas">Assinar</button>
             </div>
         </div>
         <div class="col-xs-12 col-sm-4">
             <div class="price-table">
-                <h3 class="text-uppercase price-title">UNLIMITED</h3>
+                <h3 class="text-uppercase price-title">NITÔ MASTERNODE</h3>
                 <hr>
                 <ul class="list-unstyled">
-                    <li><strong class="amount">$ <span class="big">59</span></strong>/Month</li>
-                    <li>100 MB Disk Space</li>
-                    <li>2 Subdomains</li>
-                    <li>5 Email Accounts</li>
-                    <li>Webmail Support</li>
-                    <li>Customer Support 24/7</li>
+                    <li><strong class="amount">R$ <span class="big" style="color:#3d943d;">59</span></strong>/Mês</li>
+                    <li>Informações de Masternodes</li>
+                    <li>Notícias de tecnologia</li>
+                    <li>Notícias de mercado</li>
+                    <li>Bot Guia Masternode</li>
                 </ul>
                 <hr>
-                <a href="#" class="button">Purchase</a>
+                <button type="button" class="btn btn-assinaturas">Assinar</button>
             </div>
         </div>
     </div>

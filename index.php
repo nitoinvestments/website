@@ -11,8 +11,8 @@ include 'includes/menu.php';
         <div class="container">
             <div class="row v-center">
                 <div class="col-xs-12 col-md-12 header-text">
-                    <h2>Tudo sobre investimentos em criptomoedas</h2>
-                    <p>Conheça a plataforma de investimentos direcionada para o mercado de cripto ativos.</p>
+                    <h2>Tudo sobre investimentos <br />Criptomoedas & Tecnologia Blockchain</h2>
+                    <p>Conheça a plataforma de investimentos direcionada para o mercado de criptoativos.</p>
                     <a href="#service-page" class="button white">Começar</a>
                 </div>
                 <!--<div class="hidden-xs hidden-sm col-md-5 text-right">
@@ -38,10 +38,10 @@ include 'includes/menu.php';
                             <img src="images/service-icon-1.png" alt="">
                         </div>
                         <h4>Nitô Chats </h4>
-                        <p>Comunicador com grupos privado, assuntos direcionados à análise técnica, previsões de mercado, investimentos e tecnologia. Conheça o comunicador da comunidade Nitô e fique por dentro das principais novidades.</p>
+                        <p>Aplicativos de comunicação com especialistas e entusiastas, tenha acesso às novidades nas tecnologias Blockchain</p>
                         <!-- Standard button -->
                             <a class="linkBt" href="chats-assinaturas.php">
-                                <button type="button" class="btn btn-danger">Entrar</button>
+                            <button type="button" class="btn btn-danger"><i class="fa fa-circle-o-notch fa-spin"></i> Em Breve</button>
                             </a>
                     </div>
                 </div>
@@ -50,8 +50,9 @@ include 'includes/menu.php';
                         <div class="box-icon">
                             <img src="images/service-icon-2.png" alt="">
                         </div>
-                        <h4>Conteúdos Educacionais e Consultoria Financeira</h4>
-                        <p>Tenha acesso à conteúdos fundamentais para iniciantes no mercado e consultoria financeira com profissionais qualificados.</p>
+                        <h4>Material Educacional</h4>
+                        <p>Tenha acesso à conteúdos fundamentais em Blockchain e consultoria financeira com os maiores consultores do Brasil.</p>
+                        <p></p><p></p>
                         <button type="button" class="btn btn-danger"><i class="fa fa-circle-o-notch fa-spin"></i> Em Breve</button>
                     </div>
                 </div>
@@ -61,7 +62,7 @@ include 'includes/menu.php';
                             <img src="images/service-icon-3.png" alt="">
                         </div>
                         <h4>Masternode Compartilhado</h4>
-                        <p>Executar seu masternode com baixo custo de investimento, agora é possível, os rendimentos e pagamentos são de forma transparente e segura.</p>
+                        <p>Executar seu masternode com baixo custo de investimento. Monitore seus rendimentos e pagamentos com segurança.</p>
                         <button type="button" class="btn btn-danger"><i class="fa fa-circle-o-notch fa-spin"></i> Em Breve</button>
                     </div>
                 </div>
@@ -71,7 +72,7 @@ include 'includes/menu.php';
 
 <section class="angle-bg sky-bg2 section-padding roadmap" id="roadmap">
 <h1 style="text-align:center; color:#FFF";>NOSSA HISTÓRIA</h1>
-<p style="text-align:center; color:#FFF";>Fique por dentro das nossas tragetórias e metas</p>
+<p style="text-align:center; color:#FFF";>Fique por dentro da nossa trajetória e metas</p>
 <br />    
 <div class="timeline">
         <div class="container left">
@@ -80,10 +81,10 @@ include 'includes/menu.php';
           <li class="borda-icon">
             <i class="far fa-4x fa-building"></i>
           </li>
-          <h4> Q2 2018 - Endereço comercial </h4>
+          <h4> Endereço comercial </h4>
           <li>
             
-            <p>Lorem ipsNo objetivos Lorem ipsNoLorem ipsNo objetivos Lorem ipsNo ob objetivosum Lorem ipsNo objetivos Lorem ipsNo objetivosum..</p>
+            <p>Definido o endereço comercial na cidade de Vinhedo/SP, localização de primeiro mundo e futuro centro de tecnologia.</p>
          </li>
          </ul>
           </div>
@@ -94,10 +95,10 @@ include 'includes/menu.php';
           <li class="borda-icon">
             <i class="far fa-4x fa-comments"></i>
           </li>
-          <h4> Q3 2018 - Chat Nitô </h4>
+          <h4> Nitô Chats </h4>
           <li>
             
-            <p>Lorem ipsNo objetivos Lorem ipsNoLorem ipsNo objetivos Lorem ipsNo ob objetivosum Lorem ipsNo objetivos Lorem ipsNo objetivosum..</p>
+            <p>Ferramenta de comunicação com investidores e entusiastas da tecnologia Blockchain. Interação Humana e ChatBots.</p>
          </li>
          </ul>
           </div>
@@ -108,10 +109,10 @@ include 'includes/menu.php';
             <li class="borda-icon">
               <i class="fas fa-4x fa-laptop"></i>
             </li>
-            <h4> Q3 2018 - Plataforma Educacional </h4>
+            <h4> Material Educacional </h4>
             <li>
               
-              <p>Lorem ipsNo objetivos Lorem ipsNoLorem ipsNo objetivos Lorem ipsNo ob objetivosum Lorem ipsNo objetivos Lorem ipsNo objetivosum..</p>
+              <p>Plataforma direcionada à conteúdos educacionais aos seguimentos em Blockchain e investimentos</p>
            </li>
            </ul>
             </div>
@@ -123,10 +124,10 @@ include 'includes/menu.php';
             <li class="borda-icon">
               <i class="fas fa-4x fa-user-tie"></i>
             </li>
-            <h4> Q4 2018 - Consultoria Financeira </h4>
+            <h4>Consultoria Financeira </h4>
             <li>
               
-              <p>Lorem ipsNo objetivos Lorem ipsNoLorem ipsNo objetivos Lorem ipsNo ob objetivosum Lorem ipsNo objetivos Lorem ipsNo objetivosum..</p>
+              <p>Assessoria e consultoria financeira pessoal e empresarial com os maiores consultores e especialistas do Brasil.</p>
            </li>
            </ul>
             </div>
@@ -137,10 +138,10 @@ include 'includes/menu.php';
             <li class="borda-icon">
               <i class="fab fa-4x fa-connectdevelop"></i>
             </li>
-            <h4> Q4 2018 - Masternodes Compartilhados </h4>
+            <h4>Masternodes Compartilhados </h4>
             <li>
               
-              <p>Lorem ipsNo objetivos Lorem ipsNoLorem ipsNo objetivos Lorem ipsNo ob objetivosum Lorem ipsNo objetivos Lorem ipsNo objetivosum..</p>
+              <p>Abertura de captação ao nosso portfólio em investimentos Masternodes.</p>
            </li>
            </ul>
             </div>
@@ -150,7 +151,7 @@ include 'includes/menu.php';
       
 
 </section>
-    
+<!--    
 <section class="gray-bg section-padding" id="faq-page">
         <div class="container">
             <div class="row">
@@ -218,7 +219,7 @@ include 'includes/menu.php';
         </div>
     </section>
 
-
+-->
 
     
 </body>

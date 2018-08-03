@@ -29,7 +29,7 @@
                     <li class="active"><a href="#home-page">Ínicio</a></li>
                     <li><a href="#service-page">Serviços</a></li>
                     <li><a href="#roadmap">Roadmap</a></li>
-                    <li><a href="#faq-page">Perguntas Frequentes</a></li>
+                    <!--<li><a href="#faq-page">Perguntas Frequentes</a></li>-->
                     <li><a href="#contact-page">Contato</a></li>
                 </ul>
             </nav>
